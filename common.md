@@ -1,5 +1,5 @@
 ## Something nasty powershell : 
 
-'''bash
+```bash
 ssh-keygen -R "user@serveur"
-'''
+```
