@@ -1,1 +1,2 @@
-something nasty powershell : nasty : ssh-keygen -R #user@serveur
+#something nasty powershell : 
+ssh-keygen -R "user@serveur"
