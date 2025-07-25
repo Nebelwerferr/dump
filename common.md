@@ -8,3 +8,8 @@ ssh-keygen -R "user@serveur"
 ```bash
 passwd "user"
 ```
+## Read journal :
+
+```Bash
+sudo journactl -u #service
+```
